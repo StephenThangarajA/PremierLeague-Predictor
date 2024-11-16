@@ -2,7 +2,6 @@
 
 This is a web application that predicts match outcomes in the English Premier League based on historical data. The project consists of a React-based frontend, a Python Flask backend for predictions, and a CSV file containing match data.
 
----
 
 ## Table of Contents
 - [Features](#features)
@@ -11,7 +10,6 @@ This is a web application that predicts match outcomes in the English Premier Le
 - [Usage](#usage)
 - [License](#license)
 
----
 
 ## Features
 - **Interactive UI**: User-friendly interface to input home and away teams.
@@ -19,7 +17,6 @@ This is a web application that predicts match outcomes in the English Premier Le
 - **Data-driven Analysis**: Uses historical data for predictions.
 - **API Integration**: Backend Flask API for processing and prediction.
 
----
 
 ## Tech Stack
 - **Frontend**: React (JSX + Vite)
@@ -27,7 +24,6 @@ This is a web application that predicts match outcomes in the English Premier Le
 - **Data Analysis**: Python (Pandas, Scikit-learn)
 - **Database**: CSV file for storing historical match data
 
----
 
 ## Installation
 
@@ -48,7 +44,6 @@ This is a web application that predicts match outcomes in the English Premier Le
 2. Start the Flask server:
  python app.py
 
----
 
 ## Usage
 1. Open the frontend in your browser: The Vite development server will run at http://localhost:5173.
@@ -56,12 +51,10 @@ This is a web application that predicts match outcomes in the English Premier Le
 3. Click "Predict" to get the predicted score.
 4. The prediction is powered by the Flask API and displayed on the UI.
 
----
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
----
 
 ### Developed with ❤️ by Premier League fans.
 
