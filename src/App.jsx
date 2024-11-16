@@ -6,7 +6,7 @@ import Match from "./Match";
 
 const App = () => {
     return (
-      <Router>
+      <Router basename="/predictor/">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/login" element={<Login />} />
